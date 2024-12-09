@@ -1,10 +1,3 @@
-Here’s a complete `README.md` file tailored for your project submission. I'll also explain step-by-step how to edit and replace your existing `README.md` file.
-
----
-
-### **README.md Contents**
-
-```markdown
 # Intelligent Web Crawler
 
 An AI-powered web crawler designed to intelligently scrape, extract, and structure data from multiple websites based on user-defined prompts.
@@ -178,9 +171,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## Contact
+<<<<<<< HEAD
 - **Name**: Qurratul Ain Sanjida
 - **Email**: sanjidaaaa123@gmail.com
 - **GitHub**: [Qurratul508](https://github.com/Qurratul508)
 ```
 
 ---
+=======
+- **Name:** Qurratul Ain Sanjida
+- **Email:** sanjidaaaa123@gmail.com
+>>>>>>> 14510a87be7a8b901fe46ac2c40c9f6098b7e728
