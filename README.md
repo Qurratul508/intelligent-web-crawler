@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # Intelligent Web Crawler
 
 An AI-powered web crawler designed to intelligently scrape, extract, and structure data from multiple websites based on user-defined prompts.
