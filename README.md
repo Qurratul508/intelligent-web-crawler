@@ -171,14 +171,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## Contact
-<<<<<<< HEAD
+
 - **Name**: Qurratul Ain Sanjida
 - **Email**: sanjidaaaa123@gmail.com
 - **GitHub**: [Qurratul508](https://github.com/Qurratul508)
 ```
 
----
-=======
-- **Name:** Qurratul Ain Sanjida
-- **Email:** sanjidaaaa123@gmail.com
->>>>>>> 14510a87be7a8b901fe46ac2c40c9f6098b7e728
